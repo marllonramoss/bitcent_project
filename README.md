@@ -23,7 +23,6 @@ Bitcent é uma aplicação web moderna para gerenciamento de finanças pessoais,
 - 💰 Cadastro de receitas e despesas
 - 📊 Dashboard com gráficos e análises
 - 📱 Interface responsiva
-- 🌙 Modo escuro/claro
 - 🔒 Dados seguros com Firebase
 
 ## 🚀 Tecnologias Utilizadas
