@@ -1,0 +1,4 @@
+.pagina {
+    @apply flex flex-col min-h-screen;
+    @apply bg-gradient-to-r from-zinc-900 via-black to-zinc-900;
+}
